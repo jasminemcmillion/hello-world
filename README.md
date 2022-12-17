@@ -6,12 +6,7 @@
 
 <h3 align="center">
 <img src="https://user-images.githubusercontent.com/120766467/208232097-8063bb3b-8f5f-4b5f-b4c5-ed952bdf6c75.png" width="70" height="70"/> My Values</h3>
-<p align="center">
-🍓 Creativity and Individualism
-<br>🍓 Honesty and Integrity
-  <br>🍓 Sustainability and Ethics 
-<br>🍓 Respect and Dependability 
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/120766467/208264964-d1f087c4-6d9a-4827-878a-227a7bc46d96.png" width="270" height="110"/></p>
 <hr>
 
 <h3 align="center">
