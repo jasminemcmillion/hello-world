@@ -24,7 +24,9 @@
 <p align="center">Figma | GIMP | HTML | CSS | Kurisuta (CSP)</p>
 <hr>
 
-### <img src="https://user-images.githubusercontent.com/120766467/208234466-dff04ddd-63bf-4480-a0b1-59defb93f34e.png" width="70" height="70"/> Reach Out
+<h3 align="center"> 
+<img src="https://user-images.githubusercontent.com/120766467/208234466-dff04ddd-63bf-4480-a0b1-59defb93f34e.png" width="70" height="70"/> Reach Out</h3>
+<p align="center">
 * [Email](mailto:jasminemcmillion.biz@gmail.com?subject=[GitHub])
 * Portfolio - 🚧under construction🚧
-* [LinkedIn](https://www.linkedin.com/in/jasmine-mcmillion-59662b174/)
+* [LinkedIn](https://www.linkedin.com/in/jasmine-mcmillion-59662b174/)</p>
