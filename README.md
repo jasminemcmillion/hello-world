@@ -19,3 +19,6 @@
 <hr>
 
 ### Reach Out
+* [Email](mailto:jasminemcmillion.biz@gmail.com?subject=[GitHub])
+* Portfolio - 🚧under construction🚧
+* [LinkedIn](https://www.linkedin.com/in/jasmine-mcmillion-59662b174/) 
