@@ -16,7 +16,7 @@
 
 <h3 align="center">
 <img src="https://user-images.githubusercontent.com/120766467/208232870-66b32588-0f06-48a8-bef0-225cc10a4674.png" width="70" height="70"/> Tools of the Craft</h3>
-<p align="center">Figma | GIMP | HTML | Notability | Kurisuta (CSP)</p>
+<p align="center">Google Workspace | GIMP | Microsoft 365 | Notability | Kurisuta (CSP)</p>
 <hr>
 
 <h3 align="center"> 
