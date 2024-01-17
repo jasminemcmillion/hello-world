@@ -11,12 +11,12 @@
 
 <h3 align="center">
 <img src="https://user-images.githubusercontent.com/120766467/208232332-38f38315-c1e8-4dc3-bf1b-64e0c0f363ae.png" width="70" height="70"/> How I Work</h3>
-<p align="center">I operate with remotetly, so as to ensure quality 24/7 servcie that meets the needs of my clients, partnered organization(s), and business associates. 💌 "To-do" lists are my best friend. Adaptability and efficiency are at the forefront of everything that I do, and I am sustained by boba tea.🧋</p>
+<p align="center">I operate with remotetly, so as to ensure quality 24/7 servcie that meets the needs of my clients, partnered organization(s), and business associates. 💌 "To-do" lists are my best friend. Adaptability and efficiency are at the forefront of everything that I do!</p>
 <hr>
 
 <h3 align="center">
 <img src="https://user-images.githubusercontent.com/120766467/208232870-66b32588-0f06-48a8-bef0-225cc10a4674.png" width="70" height="70"/> Tools of the Craft</h3>
-<p align="center">Google Workspace | GIMP | Microsoft 365 | Notability | Kurisuta (CSP)</p>
+<p align="center">Google Workspace | iCIMS | ADP | GIMP | Microsoft 365 | Notability | Kurisuta (CSP) | MS Teams | Slack</p>
 <hr>
 
 <h3 align="center"> 
@@ -25,7 +25,7 @@
   <div align="center">
     <a href="jasminemcmillion.biz@gmail.com" target="_blank">Email</a>
     <br>
-    Portfolio - 🚧under construction🚧
+    <a href="https://www.jasminemcmillion.carrd.co" target="_blank">Portfolio</a>   
     <br>
     <a href="https://www.linkedin.com/in/jasmine-mcmillion-59662b174/" target="_blank">Linkedin</a>
   </div>
